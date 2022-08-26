@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 23 18:49:11 2022
 
-@author: isomj
+"""
+Generates valid 5-letter English words from the letters in a name
 """
 
 from itertools import permutations
